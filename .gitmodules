@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/GLTFSceneKit"]
+	path = Carthage/Checkouts/GLTFSceneKit
+	url = https://github.com/otri/GLTFSceneKit.git
